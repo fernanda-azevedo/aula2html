@@ -1,0 +1,51 @@
+body {
+margin: 0;
+padding: 0;
+border: 0;
+}
+
+.cabecalho {
+font-weight: 300;
+padding-top: 20px;
+background: #26282b;
+width: 100%;
+height: 80px;
+}
+  
+.caixa {
+max-width: 1280px;
+height: 100%;
+margin: 0 auto; 
+}
+
+.logo {
+    font-weight: bold;
+    color: aliceblue;
+    font-family: montserrat;
+    margin-left: 50px;
+    padding-top: 20px;
+    font-size: 20px;
+    float: left;
+}
+
+ul {
+    color: rgb(255, 250, 250);
+  list-style: none;
+  margin-right: 50px;
+}
+
+ul li {
+  font-family: montserrat;
+  color: rgb(255, 249, 249);
+  display: inline;
+  margin-left: 25px;
+  font-size: larger;
+}
+
+.cabecalho nav {
+    float: right;
+  }
+
+.homelaranja {
+    color: orangered;
+}
